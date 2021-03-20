@@ -1,4 +1,4 @@
-You can then access petclinic here: http://localhost:8080/
+# Spring PetClinic Sample Application
 
 ## Working with Petclinic in your IDE
 
